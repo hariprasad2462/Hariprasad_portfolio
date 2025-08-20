@@ -3,7 +3,7 @@ Personal portfolio showcasing electronics engineering, AI projects, and smart sy
 # 👋 Hariprasad P – Electronics & AI Integration Specialist
 
 📍 Chirayinkeezhu, Kerala | 🌍 Open to UAE relocation  
-📧 hariprasadpramod@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/hariprasad) | 💻 [GitHub](https://github.com/hariprasad)
+📧 hariprasadpramod@gmail.com | 🔗 [LinkedIn]linkedin.com/in/hariprasad-p-18a885224 | 💻 [GitHub](https://github.com/hariprasad)
 
 ---
 
