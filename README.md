@@ -50,7 +50,7 @@ I’m a practical innovator blending electronics engineering with data analytics
 
 ## 📄 Resume
 
-📥 [Download CV](https://github.com/hariprasad/portfolio-site/blob/main/HARIPRASAD_P_CV.pdf)
+📄 [Download My CV](assets/HARIPRASAD_P_CV.pdf)
 
 ---
 
